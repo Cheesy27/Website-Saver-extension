@@ -1,4 +1,5 @@
 
+//optimizing suboptimal code
 
 //variables
 let myLeads = []// array to store urls
